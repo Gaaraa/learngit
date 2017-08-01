@@ -1,4 +1,5 @@
 Git is a distributed version control system.
 Git is free software.
-learngit 第一天 下午18.25
+learngit 第一天 下午18.25 
+现在是18.28拉
 
