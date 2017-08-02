@@ -3,4 +3,4 @@ Git is free software.
 learngit 第一天 下午18.25 
 现在是18.28拉
 it is 18:32 now
-
+today is 2017.8.2
